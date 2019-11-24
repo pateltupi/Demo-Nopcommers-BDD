@@ -1,0 +1,155 @@
+2019-05-20 10:05:922 INFO  HomePage :59 - Click on registartion Link
+2019-05-20 10:05:597 INFO  RegistrationPage :49 - Selecting geneder
+2019-05-20 10:05:730 INFO  RegistrationPage :59 - Entering text to firstname
+2019-05-20 10:05:944 INFO  RegistrationPage :66 - Enter text to Lastname
+2019-05-20 10:05:68 INFO  RegistrationPage :73 - Selecting date of birth from dropdown list
+2019-05-20 10:05:766 INFO  RegistrationPage :81 - Selecting month from drop down list
+2019-05-20 10:05:528 INFO  RegistrationPage :89 - Selecting year from drop down list 
+2019-05-20 10:05:296 INFO  RegistrationPage :97 - Enter text to email
+2019-05-20 10:05:845 INFO  RegistrationPage :104 - Enter text to company
+2019-05-20 10:05:10 INFO  RegistrationPage :118 - Enter text to password
+2019-05-20 10:05:171 INFO  RegistrationPage :125 - Enter text to confirm password
+2019-05-20 10:05:348 INFO  HomePage :54 - Click on Loginlink
+2019-05-20 10:05:709 INFO  LogInPage :54 - Get text for assert
+2019-05-20 10:05:745 INFO  HomePage :54 - Click on Loginlink
+2019-05-20 10:05:954 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-20 10:05:137 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-20 10:05:271 INFO  LogInPage :49 - Click on log in button
+2019-05-20 10:05:757 INFO  LogInPage :49 - Click on log in button
+2019-05-20 10:05:966 INFO  HomePage :54 - Click on Loginlink
+2019-05-20 10:05:895 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-20 10:05:108 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-20 10:05:241 INFO  LogInPage :49 - Click on log in button
+2019-05-20 10:05:802 INFO  HomePage :54 - Click on Loginlink
+2019-05-20 10:05:460 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-20 10:05:664 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-20 10:05:785 INFO  LogInPage :49 - Click on log in button
+2019-05-21 22:05:69 INFO  HomePage :54 - Click on Loginlink
+2019-05-21 22:05:752 INFO  LogInPage :54 - Get text for assert
+2019-05-21 22:05:246 INFO  HomePage :54 - Click on Loginlink
+2019-05-21 22:05:667 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-21 22:05:848 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-21 22:05:977 INFO  LogInPage :49 - Click on log in button
+2019-05-21 22:05:415 INFO  LogInPage :49 - Click on log in button
+2019-05-21 22:05:602 INFO  HomePage :54 - Click on Loginlink
+2019-05-21 22:05:890 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-21 22:05:84 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-21 22:05:203 INFO  LogInPage :49 - Click on log in button
+2019-05-21 22:05:102 INFO  HomePage :54 - Click on Loginlink
+2019-05-21 22:05:305 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-21 22:05:515 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-21 22:05:640 INFO  LogInPage :49 - Click on log in button
+2019-05-21 22:05:565 INFO  ComputerPage :33 - Click on computer button
+2019-05-21 22:05:775 INFO  ComputerPage :52 - get computer text
+2019-05-21 22:05:219 INFO  HomePage :66 - Mouse Hover on computer
+2019-05-21 22:05:337 INFO  HomePage :72 - Mouse hover on electronics
+2019-05-21 22:05:397 INFO  HomePage :82 - Mouse hover on Apparel
+2019-05-21 22:05:451 INFO  HomePage :77 - mouse hover on Books
+2019-05-21 22:05:527 INFO  HomePage :86 - Mouse hover on digitak downloads
+2019-05-21 22:05:587 INFO  HomePage :96 - Mouse hover on jewellary
+2019-05-21 22:05:431 INFO  HomePage :56 - Click on Loginlink
+2019-05-21 22:05:260 INFO  LogInPage :54 - Get text for assert
+2019-05-21 22:05:97 INFO  HomePage :56 - Click on Loginlink
+2019-05-21 22:05:579 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-21 22:05:805 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-21 22:05:931 INFO  LogInPage :49 - Click on log in button
+2019-05-21 22:05:196 INFO  LogInPage :49 - Click on log in button
+2019-05-21 22:05:19 INFO  HomePage :56 - Click on Loginlink
+2019-05-21 22:05:323 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-21 22:05:537 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-21 22:05:694 INFO  LogInPage :49 - Click on log in button
+2019-05-21 22:05:823 INFO  HomePage :56 - Click on Loginlink
+2019-05-21 22:05:553 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-21 22:05:768 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-21 22:05:896 INFO  LogInPage :49 - Click on log in button
+2019-05-21 22:05:259 INFO  HomePage :61 - Click on registartion Link
+2019-05-21 22:05:888 INFO  RegistrationPage :136 - Displayed text
+2019-05-21 22:05:934 INFO  RegistrationPage :49 - Selecting geneder
+2019-05-21 22:05:63 INFO  RegistrationPage :59 - Entering text to firstname
+2019-05-21 22:05:267 INFO  RegistrationPage :66 - Enter text to Lastname
+2019-05-21 22:05:381 INFO  RegistrationPage :73 - Selecting date of birth from dropdown list
+2019-05-21 22:05:27 INFO  RegistrationPage :81 - Selecting month from drop down list
+2019-05-21 22:05:745 INFO  RegistrationPage :89 - Selecting year from drop down list 
+2019-05-21 22:05:277 INFO  RegistrationPage :97 - Enter text to email
+2019-05-21 22:05:671 INFO  RegistrationPage :104 - Enter text to company
+2019-05-21 22:05:808 INFO  RegistrationPage :118 - Enter text to password
+2019-05-21 22:05:928 INFO  RegistrationPage :125 - Enter text to confirm password
+2019-05-22 21:05:553 INFO  HomePage :56 - Click on Loginlink
+2019-05-22 21:05:931 INFO  LogInPage :54 - Get text for assert
+2019-05-22 21:05:731 INFO  HomePage :56 - Click on Loginlink
+2019-05-22 21:05:211 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-22 21:05:792 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-22 21:05:973 INFO  LogInPage :49 - Click on log in button
+2019-05-22 21:05:202 INFO  LogInPage :49 - Click on log in button
+2019-05-22 21:05:100 INFO  HomePage :56 - Click on Loginlink
+2019-05-22 21:05:846 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-22 21:05:113 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-22 21:05:322 INFO  LogInPage :49 - Click on log in button
+2019-05-22 21:05:57 INFO  HomePage :56 - Click on Loginlink
+2019-05-22 21:05:874 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-22 21:05:132 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-22 21:05:286 INFO  LogInPage :49 - Click on log in button
+2019-05-22 22:05:896 INFO  HomePage :66 - Mouse Hover on computer
+2019-05-22 22:05:67 INFO  HomePage :101 - Get home text to assert
+2019-05-22 22:05:138 INFO  HomePage :72 - Mouse hover on electronics
+2019-05-22 22:05:212 INFO  HomePage :82 - Mouse hover on Apparel
+2019-05-22 22:05:282 INFO  HomePage :77 - mouse hover on Books
+2019-05-22 22:05:346 INFO  HomePage :86 - Mouse hover on digitak downloads
+2019-05-22 22:05:423 INFO  HomePage :96 - Mouse hover on jewellary
+2019-05-22 22:05:396 INFO  HomePage :56 - Click on Loginlink
+2019-05-22 22:05:571 INFO  LogInPage :54 - Get text for assert
+2019-05-22 22:05:721 INFO  HomePage :56 - Click on Loginlink
+2019-05-22 22:05:44 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-22 22:05:302 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-22 22:05:455 INFO  LogInPage :49 - Click on log in button
+2019-05-22 22:05:622 INFO  LogInPage :49 - Click on log in button
+2019-05-22 22:05:200 INFO  HomePage :56 - Click on Loginlink
+2019-05-22 22:05:490 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-22 22:05:732 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-22 22:05:859 INFO  LogInPage :49 - Click on log in button
+2019-05-22 22:05:71 INFO  HomePage :56 - Click on Loginlink
+2019-05-22 22:05:516 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-22 22:05:715 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-22 22:05:847 INFO  LogInPage :49 - Click on log in button
+2019-05-28 18:05:107 INFO  HomePage :66 - Mouse Hover on computer
+2019-05-28 18:05:445 INFO  HomePage :72 - Mouse hover on electronics
+2019-05-28 18:05:924 INFO  HomePage :82 - Mouse hover on Apparel
+2019-05-28 18:05:899 INFO  HomePage :86 - Mouse hover on digitak downloads
+2019-05-28 18:05:721 INFO  HomePage :77 - mouse hover on Books
+2019-05-28 18:05:765 INFO  HomePage :56 - Click on Loginlink
+2019-05-28 18:05:618 INFO  LogInPage :54 - Get text for assert
+2019-05-28 18:05:40 INFO  HomePage :56 - Click on Loginlink
+2019-05-28 18:05:767 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-28 18:05:985 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-28 18:05:139 INFO  LogInPage :49 - Click on log in button
+2019-05-28 18:05:469 INFO  LogInPage :49 - Click on log in button
+2019-05-28 18:05:255 INFO  HomePage :56 - Click on Loginlink
+2019-05-28 18:05:86 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-28 18:05:297 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-28 18:05:415 INFO  LogInPage :49 - Click on log in button
+2019-05-28 18:05:705 INFO  HomePage :56 - Click on Loginlink
+2019-05-28 18:05:639 INFO  LogInPage :33 - Enter text to email filed 
+2019-05-28 18:05:821 INFO  LogInPage :41 - Enter text to password fiels
+2019-05-28 18:05:946 INFO  LogInPage :49 - Click on log in button
+2019-05-28 20:05:645 INFO  HomePage :66 - Mouse Hover on computer
+2019-05-28 20:05:04 INFO  HomePage :82 - Mouse hover on Apparel
+2019-09-02 21:09:859 INFO  HomePage :66 - Mouse Hover on computer
+2019-09-02 21:09:770 INFO  HomePage :72 - Mouse hover on electronics
+2019-09-02 21:09:200 INFO  HomePage :82 - Mouse hover on Apparel
+2019-09-02 21:09:487 INFO  HomePage :86 - Mouse hover on digitak downloads
+2019-09-02 21:09:815 INFO  HomePage :77 - mouse hover on Books
+2019-09-02 21:09:186 INFO  HomePage :56 - Click on Loginlink
+2019-09-02 21:09:524 INFO  LogInPage :54 - Get text for assert
+2019-09-02 21:09:910 INFO  HomePage :56 - Click on Loginlink
+2019-09-02 21:09:731 INFO  LogInPage :33 - Enter text to email filed 
+2019-09-02 21:09:79 INFO  LogInPage :41 - Enter text to password fiels
+2019-09-02 21:09:277 INFO  LogInPage :49 - Click on log in button
+2019-09-02 21:09:960 INFO  LogInPage :49 - Click on log in button
+2019-09-02 21:09:873 INFO  HomePage :56 - Click on Loginlink
+2019-09-02 21:09:706 INFO  LogInPage :33 - Enter text to email filed 
+2019-09-02 21:09:986 INFO  LogInPage :41 - Enter text to password fiels
+2019-09-02 21:09:172 INFO  LogInPage :49 - Click on log in button
+2019-09-02 21:09:438 INFO  HomePage :56 - Click on Loginlink
+2019-09-02 21:09:220 INFO  LogInPage :33 - Enter text to email filed 
+2019-09-02 21:09:459 INFO  LogInPage :41 - Enter text to password fiels
+2019-09-02 21:09:607 INFO  LogInPage :49 - Click on log in button
